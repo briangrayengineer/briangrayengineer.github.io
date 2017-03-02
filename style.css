@@ -1,0 +1,325 @@
+body {
+  background-color: gray;
+  font-family: "Open Sans", sans-serif;
+  height: 1000px;
+}
+
+#logo {
+  position: relative;
+  height: 4em;
+  margin-left: 5px;
+  margin-top: 15px;
+  width:20%;
+  background-color: white;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+#header {
+  border-radius: 5px;
+  height: 85px;
+  margin-top: -25px;
+  margin-left: -15px;
+  margin-right: -15px;
+  width: 100.5%;
+  position: fixed;
+  z-index: 2;
+  border-width: 1%;
+  border-bottom-width: 5px;
+  border-color: rosybrown;
+  border-style: solid;
+  background: linear-gradient(skyblue, white);
+}
+
+#header_element{
+  position: relative;
+  margin-left: 47.5%;
+  margin-top: -1.75em;
+  color: #333333;
+}
+
+#navbar {
+  font-size: 1em;
+  border-radius: 5px;
+  height: 110%;
+  width: 17.5%;
+  float: left;
+  margin-top: 60px;
+  margin-left: -15px;
+  text-align: center;
+  border-width: 1%;
+  border-right-width: 0.5%;
+  border-color: rosybrown;
+  border-style: solid;
+  list-style: none;
+  position: fixed;
+  z-index: 1;
+  background-image: url(" http://www.nbn.org.il/wp-content/uploads/2014/01/engineering_mechanical_3042380_cropped.jpg");
+  background-position: center;
+}
+
+.navbar_element {
+  font-size: 1.5em;
+  list-style: none;
+  position: relative;
+  text-align: center;
+  height: 2.3em;
+  margin-left: -30px;
+  margin-top: 5px;
+  margin-right: 5px;
+  background-color: #4682b4;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  color: black;
+  overflow: hidden;
+}
+
+span {
+  position: relative;
+  top: 0.6em;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar_element:hover {
+  font-weight: bold;
+  background-color: dimgray;
+}
+
+.navbar_element:active {
+  font-weight: bold;
+  background-color: dimgray;
+  position: relative;
+  top: 2px;
+}
+
+.main_page {
+  height: 100%;
+  width: 83.35%;
+  margin-right: -15px;
+  background-color: gainsboro;
+  float: right;
+  margin-top: 65px;
+  border-width: 1%;
+  border-left-width: 0.5%;
+  border-color: rosybrown;
+  border-style: solid;
+  text-align: center;
+  z-index: 1;
+}
+
+p {
+  margin: 0% 2% 0% 2%;
+}
+
+#main_page_academics {
+  height: 150%;
+}
+
+#main_page_contact {
+  height: 75%;
+}
+
+#main_page_projects {
+  height: 500%;
+}
+
+.main_page_element {
+  font-size: 1em;
+  text-align: center;
+  height: 80px;
+  width: 18.9%;
+  margin: 0.5% 0% 2% 0%;
+  display: inline-table;
+  border-width: .15em;
+  border-color: black;
+  background-color: cadetblue;
+}
+
+#main_page_element_car {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_elevator {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_website {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_352parts {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_352project {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_personal {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_engine {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_chair {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_Nameplate {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_3D {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_C {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_html {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_css {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+#main_page_element_javascript {
+  height: 0px;
+  font-size: 0px;
+  margin: 0% 0% 0% 0%;
+  border-width: 0px;
+}
+
+.main_page_element:active {
+  font-weight: bold;
+  background-color: dimgray;
+  position: relative;
+  top: 2px;
+}
+
+.popup_window {
+  height: 0px;
+  border-width: .1em;
+  background-color: none;
+  margin: 0% 2% 0% 2%;
+  z-index: 1000;
+  overflow: hidden;
+}
+
+#popup_window_image {
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+  margin: 2% 0% 2% 0%;
+  height: 350px;
+  width: 475px;
+}
+#popup_window_image_car {
+	border: solid;
+  border-width: 1px;
+  border-color: black;
+  margin: 2% 0% 2% 0%;
+	width: 1000px;
+	height: 800px;
+}
+
+#popup_window_image_elevator {
+	border: solid;
+  border-width: 1px;
+  border-color: black;
+  margin: 2% 0% 2% 0%;
+	width: 1000px;
+	height: 1200px;
+}
+
+.video {
+	position: center;
+}
+
+#footer {
+  border-radius: 5px;
+  height: 50px;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: -15px;
+  width: 101.5%;
+  background: linear-gradient(white,skyblue);
+  clear: both;
+  border-width: 1%;
+  border-color: rosybrown;
+  border-style: solid;
+}
+
+#footer_element {
+  border-radius: 5px;
+  height: 25px;
+  width: 150px;
+  margin-left: 15px;
+  border-color: blue;
+  border-style: solid;
+  border-width: 1px;
+  background-color: beige;
+  text-align: center;
+  z-index: 2;
+  float: right;
+  position: relative;
+  margin-top: 12.5px;
+  margin-right: 1.5em;
+}
+
+#contactbutton {
+  position: relative;
+  top: 0.25em;
+  color: black;
+  text-decoration: none;
+  font-size: 15px;
+}
