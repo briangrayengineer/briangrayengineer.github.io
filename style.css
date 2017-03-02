@@ -37,6 +37,7 @@ body {
   margin-left: 47.5%;
   margin-top: -1.75em;
   color: #333333;
+  overflow: hidden;
 }
 
 #navbar {
@@ -263,6 +264,7 @@ p {
   height: 350px;
   width: 475px;
 }
+/*
 #popup_window_image_car {
 	border: solid;
   border-width: 1px;
@@ -280,7 +282,7 @@ p {
 	width: 1000px;
 	height: 1200px;
 }
-
+*/
 .video {
 	position: center;
 }
