@@ -264,14 +264,12 @@ p {
   height: 350px;
   width: 475px;
 }
-/*
+
 #popup_window_image_car {
 	border: solid;
   border-width: 1px;
   border-color: black;
   margin: 2% 0% 2% 0%;
-	width: 1000px;
-	height: 800px;
 }
 
 #popup_window_image_elevator {
@@ -279,10 +277,8 @@ p {
   border-width: 1px;
   border-color: black;
   margin: 2% 0% 2% 0%;
-	width: 1000px;
-	height: 1200px;
 }
-*/
+
 .video {
 	position: center;
 }
