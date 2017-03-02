@@ -264,21 +264,7 @@ p {
   height: 350px;
   width: 475px;
 }
-/*
-#popup_window_image_car {
-	border: solid;
-  border-width: 1px;
-  border-color: black;
-  margin: 2% 0% 2% 0%;
-}
 
-#popup_window_image_elevator {
-	border: solid;
-  border-width: 1px;
-  border-color: black;
-  margin: 2% 0% 2% 0%;
-}
-*/
 .video {
 	position: center;
 }
