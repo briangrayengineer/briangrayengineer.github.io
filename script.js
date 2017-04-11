@@ -1566,7 +1566,7 @@ $(document).ready(function () {
   ASHRAE
   */
   $("#main_page_element_ASHRAE").on("click", function (){
-    if ($("#popup_window_ASHRAE").height() == 1000) {
+    if ($("#popup_window_ASHRAE").height() == 2000) {
       $("#popup_window_ASHRAE").animate({height: "0px"},200);
       $("#popup_window_ASME").animate({height: "0px"});
       $("#popup_window_StudentGrader").animate({height: "0px"},200);
@@ -1574,7 +1574,7 @@ $(document).ready(function () {
       $("#popup_window_Volunteering").animate({height: "0px"},200);
     }
     else if ($("#popup_window_ASHRAE").height() == 0) {
-      $("#popup_window_ASHRAE").animate({height: "1000px"},200);
+      $("#popup_window_ASHRAE").animate({height: "2000px"},200);
       $("#popup_window_ASME").animate({height: "0px"},200);
       $("#popup_window_StudentGrader").animate({height: "0px"},200);
       $("#popup_window_Hobbyist").animate({height: "0px"},200);
