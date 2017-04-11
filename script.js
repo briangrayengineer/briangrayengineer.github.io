@@ -457,7 +457,7 @@ $(document).ready(function () {
   352 PROJECT
   */
   $("#main_page_element_352project").on("click", function (){
-    if ($("#popup_window_352project").height() == 15000) {
+    if ($("#popup_window_352project").height() == 30000) {
       $("#popup_window_car").animate({height: "0px"},0);
       $("#popup_window_elevator").animate({height: "0px"},0);
       $("#popup_window_website").animate({height: "0px"},0);
@@ -478,7 +478,7 @@ $(document).ready(function () {
       $("#popup_window_elevator").animate({height: "0px"},0);
       $("#popup_window_website").animate({height: "0px"},0);
       $("#popup_window_352parts").animate({height: "0px"},0);
-      $("#popup_window_352project").animate({height: "15000px"},0);
+      $("#popup_window_352project").animate({height: "30000px"},0);
       $("#popup_window_personal").animate({height: "0px"},0);
       $("#popup_window_engine").animate({height: "0px"},0);
       $("#popup_window_chair").animate({height: "0px"},0);
