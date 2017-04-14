@@ -270,6 +270,18 @@ p {
   z-index: 2;
 }
 
+#description {
+	width: 750px;
+	text-align: center;
+	margin-left: 375px;
+}
+
+#description1 {
+	width: 750px;
+	text-align: center;
+	margin-left: 400px;
+}
+
 #popup_window_image_car {
 	border: solid;
   border-width: 1px;
